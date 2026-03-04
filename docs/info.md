@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-By providing an input combination of 10101010, the digit display displays 'R.'. This is using a combination fo XOR and NOT gates.
+By providing an input combination of 10101010, the digit display displays 'R.'. This is using a combination of XOR and NOT gates.
 
 ## How to test
 
