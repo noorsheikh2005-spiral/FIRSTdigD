@@ -1,7 +1,7 @@
 # Tiny Tapeout project information (Wokwi project)
 project: First Dig Des
   wokwi_id:     457571371384299521       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "Digital digit display circuit - TINYTAPEOUT"      # Project title
+  title:        Digital digit display circuit - TINYTAPEOUT      # Project title
   author:       "Noor Alshaikh"      # Your name
   discord:      "noor_29"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "designed a logic circuit such that providing the input combination 10101010 displays 'R.' on the digit display"      # One line description of what your project does
