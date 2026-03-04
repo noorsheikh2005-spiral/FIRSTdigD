@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+By providing an input combination of 10101010, the digit display displays 'R.'. This is using a combination fo XOR and NOT gates.
 
 ## How to test
 
-Explain how to use your project
+Provide an input combination of 10101010 to see the 'R.'
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+none
